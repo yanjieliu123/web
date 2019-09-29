@@ -9,3 +9,5 @@ $ git add redme.md
 
 $ git commit -m "git基本配置使用命令"
 
+$ git add ./
+$ git commit -m "多文件存放说明"
