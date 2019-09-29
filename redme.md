@@ -46,4 +46,20 @@ git merge [name]
 git branch -d [name]
 
 
+两个并行分支分别开发不同功能后合并问题，怎么做到两者功能合并？
+手动改变两份之代码后才能兼并否则无法合并
+
+
+
+团队开发代码，如何共享项目代码？
+
+使用GItHub，允许通过git上传代码的功能
+https://github.com/yanjieliu123/web.git我的个人账户
+
+$ git push https://github.com/yanjieliu123/web.git master
+上传到github仓库
+
+
+
+
 
