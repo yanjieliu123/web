@@ -31,3 +31,11 @@ git reset --hard [版本号]
 
 git reflog
 可以查看版本切换记录
+
+创建分支与分支切换
+git branch [name]
+
+git checkout [name]
+
+合并分支
+git merge [name]
