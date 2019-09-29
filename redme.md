@@ -60,6 +60,9 @@ $ git push https://github.com/yanjieliu123/web.git master
 上传到github仓库
 
 
+$ git pull https://github.com/yanjieliu123/web.git master
+获取GITHub服务器仓库文件
+
 
 
 
