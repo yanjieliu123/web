@@ -21,3 +21,13 @@ git log --oneline 显示单行提交内容
 返回旧版本
 $ git reset --hard HEAD~0  （数字0可以为1或者更大，回退版本更早）
 
+通过版本号切换版本
+
+git reset --hard "具体版本号" （不用双引号）
+
+git reset --hard [版本号]
+
+切换到旧版本后原来的版本号怎么查看？
+
+git reflog
+可以查看版本切换记录
