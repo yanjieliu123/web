@@ -66,5 +66,8 @@ $ git pull https://github.com/yanjieliu123/web.git master
 第一次使用
 git clone [远程路径]会自动创建本地仓储
 
-
+##使用ssh方式上传代码
+-公钥 私钥，两者之间有关联；私钥自留，公钥可以团队内部使用。
+-生成公钥和私钥
+ +生成命令：$ ssh-keygen -t rsa -C "yanjie_liu123@163.com"
 
