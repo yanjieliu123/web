@@ -17,3 +17,7 @@ $ git commit --all -m "多文件存放说明"
 
 $ git log 显示所有详细信息
 git log --oneline 显示单行提交内容
+
+返回旧版本
+$ git reset --hard HEAD~0  （数字0可以为1或者更大，回退版本更早）
+
