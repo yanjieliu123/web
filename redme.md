@@ -61,8 +61,10 @@ $ git push https://github.com/yanjieliu123/web.git master
 
 
 $ git pull https://github.com/yanjieliu123/web.git master
-获取GITHub服务器仓库文件
+获取GITHub服务器仓库文件，需要提前git init本地库
 
+第一次使用
+git clone [远程路径]会自动创建本地仓储
 
 
 
