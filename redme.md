@@ -41,3 +41,9 @@ git checkout [name]
 
 合并分支
 git merge [name]
+
+删除分支
+git checkout -d [name]
+
+
+
