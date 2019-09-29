@@ -4,3 +4,8 @@ $ git config --global user.name "LYJ"
 $ git config --global user.email "yanjie_liu123@163com"
 
 
+提交文件命令 分两步
+$ git add redme.md
+
+$ git commit -m "git基本配置使用命令"
+
