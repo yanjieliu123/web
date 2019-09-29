@@ -9,5 +9,11 @@ $ git add redme.md
 
 $ git commit -m "git基本配置使用命令"
 
+多个文件操作
 $ git add ./
 $ git commit --all -m "多文件存放说明"
+
+查看日志
+
+$ git log 显示所有详细信息
+git log --oneline 显示单行提交内容
