@@ -63,6 +63,13 @@ $ git push https://github.com/yanjieliu123/web.git master
 $ git pull https://github.com/yanjieliu123/web.git master
 获取GITHub服务器仓库文件，需要提前git init本地库
 
+在push和pull操作时首先pull操作下载文件到本地，然后再进行push操作
+
+push和pull操作简写：
+通过如下
+git remote add origin https://github.com/yanjieliu123/web.git
+定义 origin,可以用 origin替代远程连接地址
+
 第一次使用
 git clone [远程路径]会自动创建本地仓储
 
