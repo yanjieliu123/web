@@ -35,6 +35,8 @@ git reflog
 创建分支与分支切换
 git branch [name]
 
+git branch 命令查看所有分支
+
 git checkout [name]
 
 合并分支
