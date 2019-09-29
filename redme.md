@@ -43,7 +43,7 @@ git checkout [name]
 git merge [name]
 
 删除分支
-git checkout -d [name]
+git branch -d [name]
 
 
 
