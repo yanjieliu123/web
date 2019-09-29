@@ -79,3 +79,4 @@ git clone [远程路径]会自动创建本地仓储
  +生成命令：$ ssh-keygen -t rsa -C "yanjie_liu123@163.com"
 
 
+
